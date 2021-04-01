@@ -18,8 +18,8 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/riznih/Case-WA-Bot.git
-> cd Case-WA-Bot
+> git clone https://github.com/SirNih/LOLBOT
+> cd LOLBOT
 ```
 
 ## Install the package
@@ -31,8 +31,8 @@
 Edit the required value in `script.js`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
 ```js
     apikey = ''
-    prefix = '/'
-    owner = '6285894628645'
+    prefix = 'R'
+    owner = '622262572982'
 ```
 
 ## Run the bot

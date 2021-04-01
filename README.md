@@ -1,2 +1,0 @@
-# LOLBOT
-Bot Wa
